@@ -23,7 +23,7 @@ import Dark from './dark';
 import LineChart2 from './Data2';
 
 
-import BarChart from './Data';
+import BarChart from './chart';
 import { Chart as ChartJS, ArcElement, Tooltip, Legend } from "chart.js";
 ChartJS.register(ArcElement, Tooltip, Legend);
 
